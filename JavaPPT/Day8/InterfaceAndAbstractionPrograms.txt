@@ -1,0 +1,14 @@
+1.Java program to create a simple abstract class
+2.Java program to create an abstract class with the constructor
+3.Java program to create an abstract class without any abstract method
+4.Java program to create an abstract class with a final method
+5.Java program to create an abstract class with a static method
+
+
+6.Java program to create a simple interface
+7.Java program to create an interface with a data member
+8.Java program to implement the method of an interface in multiple classes
+9.Java program to implement multiple interfaces in the same class
+10.Java program to implement the interface with multi-level inheritance
+11.Java program to implement multiple-inheritance using the interface
+12.Java program to implement interface with hierarchical inheritance

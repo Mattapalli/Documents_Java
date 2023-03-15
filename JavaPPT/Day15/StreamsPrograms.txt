@@ -1,0 +1,20 @@
+Problme: Create Employee class and containg given below fileds
+ empId,empName,gender,depName,status,salary.
+  1.create the 7 objects to Employee and add all employee objects in ArrayList
+  
+  Ex: List<Employee> empList=new ArrayList();
+        empList.add(new Employee(101,"Lohith","CSE","Male","active",2000);
+	    empList.add(new Employee(102,"Sankar","EEE","Male","inactive",2500);
+
+
+1.write a program to print employee details working in each department ?
+2.write a program to print employees count working in each department ?
+3.write a program to print active and inactive employees in the given collection ?
+4.write a program to print Max/Min employee salary from given collection ?
+5.write a program to print Max salary from each department ?
+6.Find the How many Males and Femals from Employees?
+7.what is avg salary of Male and Femal of whole department?
+8.How many Males and femal from Each Department in the orgnization ?
+
+
+
